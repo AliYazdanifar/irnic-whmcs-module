@@ -10,7 +10,7 @@
 
 ## پشتیبانی
 برای دریافت راهنمایی و پشتیبانی بیشتر، لطفاً با ما تماس بگیرید:
-- ایمیل: support@example.com
-- وب‌سایت: https://www.example.com/support
+- ایمیل: ali.yazdani324@gmail.com
+- وب‌سایت: https://azmonmarket.ir/blog/whmcs_irnic_module
 
 ما از بازخوردهای شما استقبال می‌کنیم. اگر پیشنهادی دارید یا با مشکلی مواجه شده‌اید، لطفاً به ما اطلاع دهید.
